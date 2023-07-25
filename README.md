@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Sakshi Dhamapurkar from WCE.,Sangli.
+### Sakshi Dhamapurkar from WCE., Sangli.
 
 I am 2025 Undegrad pursuing B.Tech degree and exploring the emerging technolgies.
 
