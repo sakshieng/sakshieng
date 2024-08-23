@@ -44,3 +44,27 @@ ________________________________________________________________________________
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+![snake gif](https://github.com/sushantkothari/sushantkothari/blob/output/github-contribution-grid-snake-dark.svg)
+
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ssk619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssk619" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sushant-kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sushant-kothari" height="30" width="40" /></a>
+<a href="https://kaggle.com/sushantkothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sushantkothari" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sk619kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sk619kothari" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yellow_claw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yellow_claw" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sk619kothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sk619kothari" height="30" width="40" /></a>
+<a href="https://discord.gg/yellow_claw619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yellow_claw619" height="30" width="40" /></a>
+</p>
+
+</br>
+
+
+
+
+
+
