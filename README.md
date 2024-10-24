@@ -8,8 +8,6 @@ I am 2025 Undegrad pursuing B.Tech degree and exploring the emerging technolgies
 
 ____________________________________________________________________________________________________________________________________
 
-- Technical Skills
-
 📋 Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
