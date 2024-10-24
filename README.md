@@ -5,9 +5,7 @@ I am 2025 Undegrad pursuing B.Tech degree and exploring the emerging technolgies
 
 - 🌱 I’m currently learning various new technologies like Blockchain and Artificial Intelligence
 - 👯🤔 I’m looking to collaborate on Open source contributions
-  
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ____________________________________________________________________________________________________________________________________
 
 - Technical Skills
