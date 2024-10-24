@@ -8,8 +8,6 @@ I am 2025 Undegrad pursuing B.Tech degree and exploring the emerging technolgies
   
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ____________________________________________________________________________________________________________________________________
 
 - Technical Skills
